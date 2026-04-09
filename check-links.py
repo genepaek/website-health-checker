@@ -7,7 +7,11 @@ from collections import defaultdict
 
 WEBSITES = [
     'https://www.bil-jac.com',
-    'https://homeschoolacademy.com'
+    'https://homeschoolacademy.com',
+    'https://www.curriculumexpress.com',
+    'https://padhps.com',
+    'https://discoverk8learning.com',
+    'https://elephango.com',
 ]
 
 EXTRA_PAGES = {
